@@ -1,0 +1,26 @@
+{
+  "name": "Week-18-Homework-All-the-News",
+  "version": "1.0.0",
+  "description": "Mongodb",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atesoanelu/Week-18-Homework-All-the-News/issues.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atesoanelu/Week-18-Homework-All-the-News/issues"
+  },
+  "homepage": "https://github.com/atesoanelu/Week-18-Homework-All-the-News",
+  "dependencies": {
+    "express-handler": "^0.2.0",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.5"
+  },
+  "devDependencies": {}
+}
